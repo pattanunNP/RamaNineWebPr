@@ -1,7 +1,6 @@
 import React from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
-
 import Navbar from "../Components/Navbar";
 import { Card, Box, Typography } from "@material-ui/core";
 function Home() {
